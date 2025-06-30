@@ -1,0 +1,27 @@
+# Core packages
+pandas>=2.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+joblib>=1.3.2
+
+# Web App
+streamlit>=1.32.0
+
+# Text Processing
+nltk>=3.8.1
+spacy>=3.7.2
+
+# File Processing
+PyPDF2>=3.0.1
+python-docx>=1.1.0
+pdfplumber>=0.10.3
+
+# Visualization (Optional if using Wordcloud/Plots)
+matplotlib>=3.7.1
+seaborn>=0.12.2
+plotly>=5.15.0
+wordcloud>=1.9.3
+
+# PDF/Doc reading compatibility
+docx2txt>=0.8
+openpyxl>=3.1.0
