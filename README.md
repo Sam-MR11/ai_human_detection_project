@@ -5,6 +5,7 @@ A machine learning-powered web application built with Streamlit to detect whethe
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📁 Project Structure
+```
 ai_human_detection_project/
 ├── app.py # 🚀 Main Streamlit application
 ├── requirements.txt # 📦 Project dependencies
@@ -29,8 +30,8 @@ ai_human_detection_project/
 │ ├── AI Generated.pdf
 │ └── Human-Written.docx
 └── README.md # 📘 Project documentation
-
------------------------------------------------------------------------------------------------------------------------------------------------------
+```
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💡 Project Features
 
