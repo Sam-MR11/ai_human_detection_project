@@ -89,7 +89,6 @@ Model	                  Accuracy	                Features Used	          Notes
 SVM		                      >90%              TF-IDF(10,000 ngrams)       Best overall performance
 Decision Tree			      ~75%                      TF-IDF (2000)       Fast and interpretable
 AdaBoost			      ~82%                      TF-IDF (2000)       Robust to noise, ensemble-based
-
 ```
 The models and the vectorizer are saved in the models/ folder using joblib.
 
