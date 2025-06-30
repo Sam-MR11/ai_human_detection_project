@@ -188,9 +188,8 @@ A demo video is added here showing:
   - Uploading PDF/Word/Text documents
 
   - Agreement analysis and downloading reports
-```demo_link
-https://youtu.be/1T7sPmoTf4E 
-```
+
+#### LINK: https://youtu.be/1T7sPmoTf4E
 
 ## 👨‍💻 Contributors
 
