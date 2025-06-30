@@ -179,7 +179,7 @@ Use these for demo and testing the app UI.
 📁 Saved modular models for better control and debugging
 
 
-### 📽 Demo Video (to be added)
+### 📽 Demo Video 
 
 A demo video is added here showing:
 
@@ -188,6 +188,9 @@ A demo video is added here showing:
   - Uploading PDF/Word/Text documents
 
   - Agreement analysis and downloading reports
+```demo_link
+https://youtu.be/1T7sPmoTf4E 
+```
 
 ## 👨‍💻 Contributors
 
