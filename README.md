@@ -193,7 +193,7 @@ A demo video is added here showing:
 
 ## 👨‍💻 Contributors
 
-  - Samaya Niraula - https://github.com/Sam120-ass
+  - Samaya Niraula - https://github.com/Sam-MR11
 
 ## 📜 License
 
